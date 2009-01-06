@@ -1,49 +1,112 @@
 body {
     font-family: sans-serif;
-    
+    background-color: beige;
 }
 
-.section__background {
-    padding: 45px;
-    width: 75%;
-    border: 3px solid rgb(0, 59, 0);
-    margin: 15px;
-    border-left: none;
-    margin-left: 0px;
-    padding-left: 25px;
+.box {
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    width: 260px;
 }
-
-#plus {
-    background-color: rgb(208, 255, 239);
-}
-
-#free {
-    background-color: aliceblue;
-}
-
-#premium {
-    background-color: rgb(38, 95, 38);
-}
-
-.p__style {
+.main {
     background-color: white;
-    padding: 20px;
-    border: 1px solid rgb(0, 59, 0);
-    color: rgb(14, 79, 31);
-    font-size: 20px;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 90px 500px;
 }
 
-.h2__style {
-    color: rgb(151, 151, 151);
+.title {
+    margin-right: 200px;
 }
 
-#h1__color {
-    color: white;
+.google {
+    padding: 4px 41px;
+    background-color: white;
+    border: 1px solid rgb(211, 200, 200);
+    border-radius: 5px;
+    width: 100%;
 }
 
-.section__background:hover {
-    border: 3px solid red;
-    border-left: none;
+.khat {
+    padding: 0px 0px;
+    width: 100%;
+    border: 1px solid rgb(235, 228, 228);
+    margin: 20px 0px;
     
+}
 
+.email {
+    text-align: left;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 0px;
+ }
+
+ .e {
+    border: 1px solid rgb(211, 200, 200);
+    border-radius: 5px;
+    color: rgb(126, 124, 124);
+    margin-top: 7px;
+    width: 100%;
+ }
+ .password{
+    text-align: left;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 0px;
+ }
+
+ .p {
+    border: 1px solid rgb(211, 200, 200);
+    border-radius: 5px;
+    margin-top: 7px;
+    width: 100%;
+ }
+
+ .checkbox {
+    text-align: left;
+    color: rgb(126, 124, 124);
+    font-size: 13px;
+    margin: 11px 0px;
+ }
+
+.login {
+    color: white;
+    background-color: rgba(0, 0, 255, 0.705);
+    padding: 4px 80px;
+    border: 1px solid rgb(211, 200, 200);
+    border-radius: 5px;
+    /*margin: 11px;*/
+    width: 100%;
+}
+
+.khat__2 {
+    padding: 0px 0px;
+    width: 100%;
+    border: 1px solid rgb(235, 228, 228);
+    margin: 20px 0px;
+}
+.forgot {
+    text-align: center;
+    font-size: 13px;
+    margin: 11px;
+}
+
+#f {
+    text-decoration: none;
+}
+
+.footer {
+    text-align: center;
+}
+
+.ff {
+    color: rgb(126, 124, 124);
+    font-size: 13px;
+    margin: 11px 0px; 
+}
+
+.ss {
+    font-size: 13px;
 }
