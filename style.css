@@ -1,8 +1,49 @@
-.A {
-    color:black; 
+.F {
+    width: 100%;
     background-color: yellow;
+    padding: 8px 16px;
 }
 
- .title {
-    margin: 50px; 
- }
+.ABC {
+    color:black; 
+    background-color: yellow;
+    display: inline-block;
+    margin: 0px 5px;
+
+}
+
+.A {
+    background-color: yellow;
+    font-size: x-large;
+}
+
+.AB {
+    text-align: right;
+}
+
+.ABC:hover {
+    color: red;
+}
+
+.G {
+    color: black;
+    background-color: yellowgreen;
+    padding: 4px 12px;
+    border-radius: 10px;
+}
+
+.Q {
+    color: black;
+    background-color: yellowgreen;
+    padding: 4px 12px;
+    border-radius: 10px;
+}
+
+.Q:hover,
+.Q:active {
+    color: yellowgreen;
+    background: black;
+    border: none;
+}
+
+
