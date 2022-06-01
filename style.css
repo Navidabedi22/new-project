@@ -1,11 +1,8 @@
 .A {
-    background-color: red;
+    color:black; 
+    background-color: yellow;
 }
 
-.B {
-    background-color: green;
-}
-
-#hello {
-    background-color: aqua;
-}
+ .title {
+    margin: 50px; 
+ }
