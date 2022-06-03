@@ -19,13 +19,12 @@ body {
     border: 5px solid orange;
 }
 
-/*.plan__recommended :hover {
+.plan__recommended :hover {
+    background-color: white;
+    color: rgb(29, 102, 238);
+} 
+
+/*.box :hover {
     background-color: white;
     color: rgb(29, 102, 238);
 } */
-
-.box :hover {
-    background-color: white;
-    color: rgb(29, 102, 238);
-}
-
