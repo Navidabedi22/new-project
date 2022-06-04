@@ -24,7 +24,12 @@ body {
     color: rgb(29, 102, 238);
 } 
 
-/*.box :hover {
-    background-color: white;
-    color: rgb(29, 102, 238);
-} */
+.list {
+    list-style: none;
+    margin-right: 35px;
+    
+}
+
+.button {
+    background-color: rgb(66, 138, 66);
+}
