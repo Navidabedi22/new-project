@@ -1,0 +1,46 @@
+.body {
+    font-family: sans-serif;
+}
+
+#main__background {
+    background-color: deeppink;
+    margin-top: 50px;
+    padding: 16px;
+}
+
+.title__style {
+    font-size: x-large;
+    color: white;
+    margin: 32px;
+    text-align: center;
+    
+}
+
+.link__background {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.link__style {
+    display: inline-block;
+    width: 30%;
+}
+
+.p__style {
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+}
+
+.img__style {
+    background: #ffcede;
+    width: 128px;
+    height: 128px;
+    border: 2px solid black;
+    border-radius: 50%;
+    margin: auto;
+
+}
